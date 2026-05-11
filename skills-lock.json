@@ -7,6 +7,12 @@
       "skillPath": "skills/email-sequence/SKILL.md",
       "computedHash": "49c9d1795813eec119a1fd9344e763fc911c05616411a68117b30d77204fa399"
     },
+    "paid-ads": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "skillPath": "skills/paid-ads/SKILL.md",
+      "computedHash": "096374424df9b5246f48a1ccbb193eae68a5f2190523dcc0ff50c43dbb368290"
+    },
     "programmatic-seo": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
