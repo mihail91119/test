@@ -253,6 +253,12 @@
       "skillPath": "skills/site-architecture/SKILL.md",
       "computedHash": "4cdfd1ba49925184462a7524586a5ec0b127668498e7bf2972ef0d4c112e9585"
     },
+    "sleek-design-mobile-apps": {
+      "source": "sleekdotdesign/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/design-mobile-apps/SKILL.md",
+      "computedHash": "221077750eaa965acb6062c3c345aa834b098bf4b6c53085687d33275298c1f5"
+    },
     "social-content": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
