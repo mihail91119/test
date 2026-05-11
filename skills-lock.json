@@ -127,6 +127,12 @@
       "skillPath": "skills/image/SKILL.md",
       "computedHash": "765c859592ba8bc959e54cb19aaa1fe7f249d021b5ac89e7531fb10a7cc7c584"
     },
+    "kling-3-0": {
+      "source": "agentspace-so/runcomfy-agent-skills",
+      "sourceType": "github",
+      "skillPath": "kling-3-0/SKILL.md",
+      "computedHash": "9eecfd9b35848d58a46e83acfb69325a2bf7960842b0b372ca33b29c0e154fc9"
+    },
     "launch-strategy": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
